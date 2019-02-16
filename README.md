@@ -1,5 +1,5 @@
 # go-bigchaindb-driver
-Official Go BigchainDB driver
+Official Go BigchainDB driver  `终于出官方驱动了`
 
 This is an implementation of a BigchainDB client written in golang. It follows the requirements set out in [BEP-13](https://github.com/bigchaindb/BEPs/tree/master/13).
 
